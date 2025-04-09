@@ -34,7 +34,7 @@
     </Card>
 
     <Drawer title="文件上传" closable v-model="uploadVisible" width="500">
-        <Upload action="/zwz/upload/file" :headers="accessToken" :on-success="handleSuccess" :on-error="handleError" :max-size="5120" :on-exceeded-size="handleMaxSize" :before-upload="beforeUpload" multiple type="drag" ref="up">
+        <Upload action="/ldr/upload/file" :headers="accessToken" :on-success="handleSuccess" :on-error="handleError" :max-size="5120" :on-exceeded-size="handleMaxSize" :before-upload="beforeUpload" multiple type="drag" ref="up">
             <div style="padding: 20px 0">
                 <Icon type="ios-cloud-upload" size="52" style="color: #3399ff"></Icon>
                 <p>点击这里或将文件拖拽到这里上传</p>
@@ -76,7 +76,7 @@
             <Row :gutter="16">
                 <Col span="24">
                 <FormItem label="预览接口">
-                    <Input type="text" v-model="fileView" placeholder="如127.0.0.1:8080/zwz/file/view" style="width: 100%">
+                    <Input type="text" v-model="fileView" placeholder="如127.0.0.1:8080/ldr/file/view" style="width: 100%">
                     <Select v-model="fileHttp" slot="prepend" style="width: 80px" prop="http" :disabled="changeLoading">
                         <Option value="http://">http://</Option>
                         <Option value="https://">https://</Option>

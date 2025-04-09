@@ -5,7 +5,7 @@
             <div class="loginLeft">
                 <img src="../assets/login/logo.png" alt="" srcset="">
                 <span class="line"></span>
-                <span class="title">企业项目合同信息管理系统</span>
+                <span class="title">劳务合同与财务管理系统</span>
             </div>
         </div>
         <div class="loginMiddle">

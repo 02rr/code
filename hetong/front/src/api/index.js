@@ -1,8 +1,8 @@
 import { getRequest, postRequest, putRequest, postBodyRequest, getNoAuthRequest, postNoAuthRequest } from '@/libs/axios';
 
-export const uploadFile = "/zwz/upload/file"
-export const drawCodeImage = "/zwz/common/draw/"
-export const getMenuList = "/zwz/permission/getMenuList"
+export const uploadFile = "/ldr/upload/file"
+export const drawCodeImage = "/ldr/common/draw/"
+export const getMenuList = "/ldr/permission/getMenuList"
 
 
 export const login = (params) => {

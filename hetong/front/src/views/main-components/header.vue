@@ -2,7 +2,7 @@
 <div>
     <Row class="header">
         <img src="../../assets/logo.png" width="220px">
-        <div class="description">企业项目合同信息管理系统</div>
+        <div class="description">劳务合同与财务管理系统</div>
     </Row>
 </div>
 </template>

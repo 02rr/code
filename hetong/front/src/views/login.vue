@@ -5,7 +5,7 @@
             <div class="loginLeft">
                 <img src="../assets/login/logo.png" alt="" srcset="">
                 <span class="line"></span>
-                <span class="title">企业项目合同信息管理系统</span>
+                <span class="title">劳务合同与财务管理系统</span>
             </div>
         </div>
         <div class="loginMiddle">
@@ -144,7 +144,7 @@ export default {
                     "appid": "wwf94bb44e76e308f8",
                     "agentid": "1000002",
                     "redirect_uri": "https://artskyhome.com:8080/%23/login",
-                    "state": "ZWZ1314520",
+                    "state": "ldr1314520",
                     "href": "",
                 });
             }
@@ -273,7 +273,7 @@ a:hover{
         width: 100%;
         height: 780px;
         margin: 0 auto; 
-        background-color: #94a875;
+        background-color: #FFF8B7;
         overflow: hidden;
         // background: linear-gradient(45deg, rgba(2, 173, 168, 0.17), rgba(0, 221, 215, 0.17)); 
     }     

@@ -4,9 +4,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>cn.zwz</groupId>
-    <artifactId>s046</artifactId>
-    <description>企业项目合同信息管理系统</description>
+    <groupId>cn.ldr</groupId>
+    <artifactId>ht_system</artifactId>
+    <description>劳务合同与财务管理系统</description>
     <version>3.0.0</version>
 
     <parent>
@@ -64,6 +64,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
+            <version>1.18.30</version>
         </dependency>
         <!-- HTTP请求-->
         <dependency>

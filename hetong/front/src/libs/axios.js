@@ -3,7 +3,7 @@ import { getStore, setStore } from './storage';
 import { router } from '../router/index';
 import { Message } from 'view-design';
 import Cookies from 'js-cookie';
-let base = '/zwz';
+let base = '/ldr';
 
 axios.defaults.timeout = 15000;
 axios.interceptors.request.use(config => {

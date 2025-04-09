@@ -4,7 +4,7 @@ export const loginRouter = {
     path: '/login',
     name: 'login',
     meta: {
-        title: '登录 - 企业项目合同信息管理系统'
+        title: '登录 - 劳务合同与财务管理系统'
     },
     component: () => import('@/views/login.vue')
 };
@@ -13,7 +13,7 @@ export const registRouter = {
     path: '/regist',
     name: 'regist',
     meta: {
-        title: '注册 - 企业项目合同信息管理系统'
+        title: '注册 - 劳务合同与财务管理系统'
     },
     component: () => import('@/views/regist.vue')
 };

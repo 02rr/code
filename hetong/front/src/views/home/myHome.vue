@@ -160,7 +160,7 @@ export default {
             if (size > 0) {
                 str += this.addMenuTempList[0].name;
                 for (var i = 1; i < size; i++) {
-                    str += "ZWZ666" + this.addMenuTempList[i].name;
+                    str += "ldr666" + this.addMenuTempList[i].name;
                 }
             }
             setMyDoorList({

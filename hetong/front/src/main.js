@@ -4,7 +4,7 @@ import 'view-design/dist/styles/iview.css'
 import App from './App'
 import { router } from './router/index'
 import store from './store'
-import Icon from 'vue-awesome/components/Icon'
+import { Icon } from 'vue-awesome'
 import { getRequest, postRequest, putRequest, postBodyRequest, getNoAuthRequest, postNoAuthRequest } from '@/libs/axios'
 import { setStore, getStore, removeStore } from '@/libs/storage'
 import { format } from "date-fns";
@@ -20,7 +20,7 @@ Vue.use(VueLazyload, {
     loading: require('./assets/loading2.gif')
 })
 Vue.use(ViewUI);
-Vue.component('icon', Icon);
+Vue.component('v-icon', Icon);
 Vue.use(VueClipboard);
 Vue.use(hasPermission);
 Vue.use(hasRole);
