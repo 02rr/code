@@ -12,10 +12,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Random;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "验证码工具类")
 public class CreateVerifyCode {
 

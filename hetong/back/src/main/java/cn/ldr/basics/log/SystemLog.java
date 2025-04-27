@@ -5,10 +5,7 @@ import io.swagger.annotations.ApiOperation;
 
 import java.lang.annotation.*;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "日志实体类")
 @Target({ElementType.PARAMETER, ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)

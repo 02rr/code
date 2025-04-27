@@ -11,10 +11,7 @@ import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "API接口回调工具类")
 @Slf4j
 public class ResponseUtil {

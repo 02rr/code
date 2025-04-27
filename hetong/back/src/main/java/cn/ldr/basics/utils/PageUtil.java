@@ -15,10 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "分页工具类")
 public class PageUtil {
 

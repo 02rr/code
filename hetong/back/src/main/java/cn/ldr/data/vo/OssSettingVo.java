@@ -6,10 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Api(tags = "文件存储配置VO类")
 @Data
 @AllArgsConstructor

@@ -13,10 +13,7 @@ import org.springframework.stereotype.Component;
 import java.util.Date;
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "MybatisPlus字段填充")
 @Slf4j
 @Component

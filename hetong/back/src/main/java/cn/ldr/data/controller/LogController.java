@@ -16,10 +16,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.transaction.annotation.Transactional;
 import org.springframework.web.bind.annotation.*;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @Api(tags = "日志管理接口")
 @RequestMapping("/ldr/log")

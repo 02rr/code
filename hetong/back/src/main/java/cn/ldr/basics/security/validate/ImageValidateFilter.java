@@ -17,10 +17,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "验证码过滤类")
 @Configuration
 public class ImageValidateFilter extends OncePerRequestFilter {

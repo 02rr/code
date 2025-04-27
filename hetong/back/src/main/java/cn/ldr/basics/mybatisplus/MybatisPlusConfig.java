@@ -7,10 +7,7 @@ import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "MybatisPlus配置类")
 @Configuration
 @MapperScan({"cn.ldr.*.mapper", "cn.ldr.*.*.mapper"})

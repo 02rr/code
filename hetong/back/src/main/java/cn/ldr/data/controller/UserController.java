@@ -33,10 +33,7 @@ import java.net.URLDecoder;
 import java.util.*;
 import java.util.stream.Collectors;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @Api(tags = "用户接口")
 @RequestMapping("/ldr/user")

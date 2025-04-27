@@ -22,10 +22,7 @@ import jakarta.validation.constraints.Pattern;
 import jakarta.validation.constraints.Size;
 import java.util.List;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Data
 @Accessors(chain = true)
 @Entity

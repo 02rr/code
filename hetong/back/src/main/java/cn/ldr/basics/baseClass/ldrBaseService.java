@@ -7,10 +7,7 @@ import org.springframework.data.domain.Pageable;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "模板服务层")
 @FunctionalInterface
 public interface ldrBaseService<E, ID extends Serializable> {

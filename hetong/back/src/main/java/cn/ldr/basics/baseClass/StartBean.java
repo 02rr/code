@@ -11,10 +11,7 @@ import org.springframework.stereotype.Service;
 
 import java.util.List;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Service
 @ApiOperation(value = "启动执行类")
 public class StartBean implements ApplicationRunner {

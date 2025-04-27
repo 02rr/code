@@ -12,10 +12,7 @@ import org.springframework.web.bind.annotation.*;
 import java.io.Serializable;
 import java.util.List;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "模板控制器层")
 public abstract class ldrBaseController<E, ID extends Serializable> {
 

@@ -13,10 +13,7 @@ import org.springframework.web.bind.annotation.*;
 
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @Api(tags = "全局设置接口")
 @RequestMapping("/ldr/setting")

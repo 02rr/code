@@ -26,10 +26,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "自定义权限过滤")
 @Slf4j
 public class JwtTokenOncePerRequestFilter extends OncePerRequestFilter {

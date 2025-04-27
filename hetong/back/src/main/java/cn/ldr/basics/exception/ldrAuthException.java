@@ -4,10 +4,7 @@ import io.swagger.annotations.ApiModelProperty;
 import io.swagger.annotations.ApiOperation;
 import org.springframework.security.authentication.InternalAuthenticationServiceException;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "自定义异常")
 public class ldrAuthException extends InternalAuthenticationServiceException {
 

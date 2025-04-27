@@ -22,10 +22,7 @@ import jakarta.persistence.*;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "模板实体类")
 @Data
 @AllArgsConstructor

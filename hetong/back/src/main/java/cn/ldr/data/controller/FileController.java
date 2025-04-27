@@ -35,10 +35,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Slf4j
 @Controller
 @Api(tags = "文件管理接口")

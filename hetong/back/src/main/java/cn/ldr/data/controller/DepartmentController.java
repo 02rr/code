@@ -31,10 +31,7 @@ import java.util.Objects;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @Api(tags = "部门管理接口")
 @RequestMapping("/ldr/department")

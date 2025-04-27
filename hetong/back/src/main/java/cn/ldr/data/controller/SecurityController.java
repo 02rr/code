@@ -20,10 +20,7 @@ import java.io.IOException;
 import java.util.UUID;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @RequestMapping("/ldr/common")
 @Api(tags = "公共接口")

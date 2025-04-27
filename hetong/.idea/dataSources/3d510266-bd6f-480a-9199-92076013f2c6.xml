@@ -933,7 +933,7 @@ sys|schema||mysql.sys|localhost|TRIGGER|G</Grants>
     </schema>
     <schema id="275" parent="1" name="money">
       <Current>1</Current>
-      <LastIntrospectionLocalTimestamp>2025-04-04.09:22:07</LastIntrospectionLocalTimestamp>
+      <LastIntrospectionLocalTimestamp>2025-04-11.14:43:12</LastIntrospectionLocalTimestamp>
       <CollationName>utf8_general_ci</CollationName>
     </schema>
     <schema id="276" parent="1" name="mysql">

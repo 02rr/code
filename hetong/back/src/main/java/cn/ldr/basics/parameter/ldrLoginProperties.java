@@ -5,10 +5,7 @@ import io.swagger.annotations.ApiOperation;
 import lombok.Data;
 import org.springframework.context.annotation.Configuration;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "登录常量类")
 @Data
 @Configuration

@@ -4,10 +4,7 @@ import cn.ldr.basics.baseVo.Result;
 import io.swagger.annotations.ApiModelProperty;
 import io.swagger.annotations.ApiOperation;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "API接口回调工具类")
 public class ResultUtil<T> {
 

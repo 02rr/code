@@ -22,10 +22,7 @@ import org.springframework.transaction.annotation.Transactional;
 
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @RequestMapping("/ldr/dictData")
 @Api(tags = "字典数据值接口")

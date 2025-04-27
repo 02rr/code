@@ -21,10 +21,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.*;
 import java.util.concurrent.TimeUnit;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @Api(tags = "缓存管理接口")
 @RequestMapping("/ldr/redis")

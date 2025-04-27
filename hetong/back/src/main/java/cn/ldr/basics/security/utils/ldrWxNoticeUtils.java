@@ -11,10 +11,7 @@ import lombok.Data;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "企微消息发送消息工具类")
 public class ldrWxNoticeUtils {
 

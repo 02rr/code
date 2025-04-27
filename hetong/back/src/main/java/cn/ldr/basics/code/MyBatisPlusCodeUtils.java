@@ -5,10 +5,7 @@ import io.swagger.annotations.ApiModelProperty;
 import io.swagger.annotations.ApiOperation;
 import lombok.extern.slf4j.Slf4j;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Slf4j
 @ApiOperation(value = "后端代码生成器执行类")
 public class MyBatisPlusCodeUtils {

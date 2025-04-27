@@ -4,10 +4,7 @@ import io.swagger.annotations.Api;
 
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Api(tags = "判断为空工具类")
 public class ldrNullUtils {
     public static boolean isNull(String str){

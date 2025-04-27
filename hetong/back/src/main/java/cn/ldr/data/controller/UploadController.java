@@ -23,10 +23,7 @@ import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import org.springframework.web.bind.annotation.*;
 import java.io.InputStream;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @Api(tags = "文件上传接口")
 @RequestMapping("/ldr/upload")

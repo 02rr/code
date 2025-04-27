@@ -7,10 +7,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 import lombok.experimental.Accessors;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Api(tags = "角色VO类")
 @Data
 @Accessors(chain = true)

@@ -6,10 +6,7 @@ import lombok.Data;
 
 import java.math.BigDecimal;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "代码生成器基础类")
 @Data
 public class Field {

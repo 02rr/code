@@ -25,10 +25,7 @@ import java.util.List;
 import java.util.Objects;
 import java.util.Set;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @RestController
 @Api(tags = "角色管理接口")
 @RequestMapping("/ldr/role")

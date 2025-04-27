@@ -8,10 +8,7 @@ import lombok.NoArgsConstructor;
 
 import java.io.Serializable;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "返回数据VO类")
 @Data
 @AllArgsConstructor

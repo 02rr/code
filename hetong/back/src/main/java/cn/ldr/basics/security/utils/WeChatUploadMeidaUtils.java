@@ -7,10 +7,7 @@ import javax.net.ssl.HttpsURLConnection;
 import java.io.*;
 import java.net.URL;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "日志枚举类")
 public class WeChatUploadMeidaUtils {
     /**

@@ -7,10 +7,7 @@ import java.util.Objects;
 import java.util.Random;
 import java.util.UUID;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @ApiOperation(value = "公共工具类")
 public class CommonUtil {
 

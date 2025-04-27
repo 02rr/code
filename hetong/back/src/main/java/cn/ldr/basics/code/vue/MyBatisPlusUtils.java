@@ -18,10 +18,7 @@ import java.io.IOException;
 import java.io.OutputStream;
 import java.util.Objects;
 
-/**
- * @author 郑为中
- * CSDN: Designer 小郑
- */
+
 @Slf4j
 @ApiOperation(value = "后端代码生成器")
 public class MyBatisPlusUtils {
